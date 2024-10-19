@@ -1,0 +1,13 @@
+Primeiro Passo:
+
+Comece ligando um dos interruptores e espere por alguns minutos. A ideia aqui é deixar a lâmpada correspondente esquentar. Depois, desligue esse interruptor e ligue outro.
+
+Agora, vá até a sala onde estão as lâmpadas.
+
+Segundo Passo:
+
+Ao chegar lá, observe as lâmpadas:
+
+Se uma lâmpada estiver quente, isso significa que o interruptor que você ligou e desligou por último controla ela.
+Se houver uma lâmpada acesa, ela está sendo controlada pelo interruptor que você deixou ligado.
+E se alguma lâmpada estiver fria e apagada, essa corresponde ao interruptor que você não tocou.
